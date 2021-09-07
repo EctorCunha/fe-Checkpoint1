@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: rgba(59, 63, 119, 0.938);
+  font-family: 'Poppins' sans-serif;
+  color: rgb(246, 237, 104);
+  padding: 20px 0px;
+  text-align: center;
+}
+
+body {
+  background-image: url(/img/paudalho-1.jpg);
+  background-size: cover;
+}
+
+.inline-block {
+  width: 900px;
+  margin: 100px;
+  margin-left: 26%;
+}
+
+p {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-family: 'Poppins' sans-serif;
+}
+
+.video {
+  text-align: center;
+  margin: 40px;
+}
+
+h3 {
+  background-color: rgba(255, 255, 255, 0.267);
+  color: rgb(66, 46, 155);
+
+  margin: auto;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding: 5px;
+  width: 15%;
+  border-radius: 7px;
+}
+
+ol li {
+  font-family: 'Poppins' sans-serif;
+  display: relative;
+  padding: 5px;
+  color: white;
+  margin: auto;
+  width: 500px;
+}
+
+iframe {
+  height: 720px;
+  width: 1280px;
+
+  margin: 20px;
+}
+
+footer {
+  background-color: rgba(59, 63, 119, 0.938);
+  padding: 30px;
+}
+
+.inline {
+  background-color: rgba(59, 63, 119, 0.938);
+  text-align: center;
+}
+
+span {
+  font-size: 30px;
+  color: rgb(246, 237, 104);
+}
+
+i {
+  display: inline-block;
+  margin: 15px;
+}
+
+.icon-insta {
+  content: url(/img/instagram.png);
+  width: 30px;
+}
+
+.icon-youtube {
+  content: url(/img/youtube.png);
+  width: 30px;
+}
