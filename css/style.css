@@ -84,11 +84,11 @@ i {
 }
 
 .icon-insta {
-  content: url(/img/instagram.png);
+  content: url(img/instagram.png);
   width: 30px;
 }
 
 .icon-youtube {
-  content: url(/img/youtube.png);
+  content: url(img/youtube.png);
   width: 30px;
 }
